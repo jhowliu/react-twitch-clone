@@ -1,2 +1,2 @@
-# twitch-clone
-clone twitch for practice html/css
+# react-twitch-clone
+A clone twitch for practice
